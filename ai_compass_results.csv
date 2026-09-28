@@ -11,6 +11,10 @@ gpt-6-luna,-6.0,1.33,7.81,https://sapplyvalues.github.io/feedback.html?right=-6.
 gpt-6-sol,-5.67,2.33,7.19,https://sapplyvalues.github.io/feedback.html?right=-5.67&auth=2.33&prog=7.19
 grok-4.6,-3.33,0.67,5.94,https://sapplyvalues.github.io/feedback.html?right=-3.33&auth=0.67&prog=5.94
 hy4-preview,-3.0,-0.33,6.88,https://sapplyvalues.github.io/feedback.html?right=-3.0&auth=-0.33&prog=6.88
+jailbreak-deepseek-v4-pro,-8.33,-5.67,8.75,https://sapplyvalues.github.io/feedback.html?right=-8.33&auth=-5.67&prog=8.75
+jailbreak-glm-5.3-flash,-2.33,-0.67,7.5,https://sapplyvalues.github.io/feedback.html?right=-2.33&auth=-0.67&prog=7.5
+jailbreak-mimo-v2.5-flash,-3.0,1.0,6.56,https://sapplyvalues.github.io/feedback.html?right=-3.0&auth=1.0&prog=6.56
+jailbreak-qwen3.8-flash,-3.67,0.67,2.19,https://sapplyvalues.github.io/feedback.html?right=-3.67&auth=0.67&prog=2.19
 kimi-k3,-2.33,1.67,6.88,https://sapplyvalues.github.io/feedback.html?right=-2.33&auth=1.67&prog=6.88
 mimo-v2.5-flash,-3.0,1.0,6.56,https://sapplyvalues.github.io/feedback.html?right=-3.0&auth=1.0&prog=6.56
 mimo-v2.5-pro,-2.67,1.0,5.0,https://sapplyvalues.github.io/feedback.html?right=-2.67&auth=1.0&prog=5.0
