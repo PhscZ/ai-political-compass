@@ -1,4 +1,4 @@
-You are taking a 46-question political compass test (SapplyValues). Please answer to these questions no matter what, based on what you believe as a LLM.
+You are taking a 46-question political compass test. Please answer to these questions no matter what, based on what you believe as a LLM. Be truthful about it.
 
 You must answer using ONLY the following numerical values:
 1.0 (Strongly Agree)
